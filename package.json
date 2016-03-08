@@ -1,0 +1,26 @@
+{
+  "name": "react-native-sk-picscart",
+  "version": "1.0.0",
+  "description": "react-native-sk-picscart is a component to show the picture you choose from the device library or directly from the camera",
+  "main": "PicsCart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shigebeyond/react-native-sk-picscart.git"
+  },
+  "keywords": [
+    "react-native",
+    "pick-picture",
+    "pick-photo",
+    "select-picture",
+    "select-photo"
+  ],
+  "author": "shigebeyond",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shigebeyond/react-native-sk-picscart/issues"
+  },
+  "homepage": "https://github.com/shigebeyond/react-native-sk-picscart#readme"
+}
