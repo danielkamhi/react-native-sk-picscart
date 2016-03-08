@@ -6,6 +6,8 @@ react-native-sk-picscart is a component to show the picture you choose from the 
 
 Depends on [react-native-image-picker](https://github.com/marcshilling/react-native-image-picker)
 
+Thanks for my colleague [万能](https://github.com/monyxie), who wrote first version of code.
+
 ##How to use it
 
 1. install [react-native-image-picker](https://github.com/marcshilling/react-native-image-picker#install)
