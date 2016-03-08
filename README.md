@@ -71,9 +71,6 @@ Depends on [react-native-image-picker](https://github.com/marcshilling/react-nat
    detailBox: {
      justifyContent: 'space-around',
    },
-   detailTxt: {
-     color: 'red'
-   }
  });
  
  AppRegistry.registerComponent('test', () => test);
